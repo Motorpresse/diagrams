@@ -29,3 +29,6 @@ Compilation of [diagrams](https://draw.io) as XML definition files and generated
 
 ### phpflo overview
 ![phpflo overview](https://github.com/Motorpresse/diagrams/blob/master/phpflo-overview.png "phpflo overview")
+
+### bannerset inheritance
+![bannerset inheritance](https://github.com/Motorpresse/diagrams/blob/master/bannerset-inheritance.png "bannerset inheritance")
