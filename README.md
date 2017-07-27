@@ -32,3 +32,6 @@ Compilation of [diagrams](https://draw.io) as XML definition files and generated
 
 ### bannerset inheritance
 ![bannerset inheritance](https://github.com/Motorpresse/diagrams/blob/master/bannerset-inheritance.png "bannerset inheritance")
+
+### article import flow
+![article import flow](https://github.com/Motorpresse/diagrams/blob/master/flow-article-import.png "article import flow")
